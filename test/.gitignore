@@ -1,0 +1,15 @@
+node_modules
+test-config.json
+.env
+
+*.log
+rococo-local-raw.json
+rococo-local.json
+
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*

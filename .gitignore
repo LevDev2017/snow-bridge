@@ -1,0 +1,8 @@
+# Local Netlify folder
+.netlify
+
+# VSCode Workspace
+workspace.code-workspace
+
+# Node modules
+node_modules/
